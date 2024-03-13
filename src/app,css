@@ -1,1 +1,39 @@
+* {
+  margin: 0
+  box-sizing: border-box;
+}
+body { background-color: grey;
+}
 
+div {
+    padding: 2rem 1rem;
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+div h2 {
+  display: flex;
+  color: orange; 
+  font-size: 30px;
+  text-align:center;
+}
+
+.title2 {
+  color: white;
+  margin-left:130px;
+}
+
+input-btn{
+  display:flex;
+  margin-left:200px;
+}
+
+button{
+  margin-left: 10px
+}
+
+
+p {
+  color: white;
+}
